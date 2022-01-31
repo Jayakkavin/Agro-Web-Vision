@@ -1,7 +1,5 @@
 # Agro-Web-Vision
 
-It's a team project and my team mate is [J.Mohammed Salman](https://github.com/SalmanACE?tab=repositories)
-
 Features :
 	
 	-> Easy to use.
